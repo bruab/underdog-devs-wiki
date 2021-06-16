@@ -60,6 +60,14 @@ If you don't have an advocate, you'll have to make a tough choice about whether 
 - Run a background check on yourself - it doesn't cost too much, and knowing what it says will help you figure out how to talk about it to potential employers
 - Get support letters from folks in tech, former employers, etc. - positive perspectives to counterbalance the negative information you have to share
 
+### There are serious gaps in my resume - how do I deal with that?
+
+There are a few strategies you can follow:
+
+1. Write a functional resume which places focus on skills, rather than time spent at a job
+2. Use years, not months when listing employers
+3. List any volunteer work as well, especially if you did things related to the job
+
 ## Freelancing
 
 ### What does it take to get started freelancing?
