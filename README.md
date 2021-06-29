@@ -28,7 +28,7 @@ There are scholarships available through programs like [NextChapter](https://www
 
 Your best bet, far and away, is to get a referral. If the hiring manager, or someone else inside a company is willing to advocate for you, your chances are way better.
 
-Working backwards, that means you need to find ways to make friends in tech, and demonstrate your skills - tech skills and hard skills.
+Working backwards, that means you need to find ways to make friends in tech, and demonstrate your skills - tech skills and soft skills.
 
 Some ways you can do that:
 
@@ -47,7 +47,15 @@ Beyond that, you can type "Fair Chance software engineer" into tools like Indeed
 
 ### When should I bring up my record? (Should I bring it up at all?)
 
-There's no consensus on this question. 
+First, know the laws in your state - and the employer's state. [This page](https://www.nolo.com/legal-encyclopedia/state-laws-use-arrests-convictions-employment.html) has a state-by-state guide.
+
+Here's a quote:
+
+> Some states allow employers to ask about convictions only if they relate directly to the job, or require employers that consider convictions to take particular facts into account, such as how serious the crime was and whether the applicant has participated in any rehabilitation efforts. And several states now have "ban-the-box" laws, prohibiting employers from asking about any criminal history until after the applicant has an interview or receives a conditional offer of employment.
+
+So depending on where you're applying, they may not ask, or even be permitted to ask about your history.
+
+That said, there's no consensus on this question. 
 
 We've definitely seen people who never heard back from possible employers after disclosing their history, or after the employer ran a background check.
 
@@ -76,7 +84,7 @@ Not much! It's unlikely anybody will ask you for a background check and there's 
 
 Some Underdog Devs have had success on platforms like Upwork.com or seeking referrals from their network. It's a great way to get some portfolio pieces built while getting paid.
 
-Definitely reach out in Slack if you're considering this option! We're here to help.
+Definitely reach out in the `#freelancing` channel on Slack if you're considering this option! We're here to help.
 
 # Other
 
